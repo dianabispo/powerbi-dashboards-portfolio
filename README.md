@@ -11,7 +11,7 @@ Aqui você encontra alguns dos meus dashboards interativos desenvolvidos no Powe
 * Ferramentas: Power BI para visualização e interatividade.
 * Principais Insights: Identificação do número total de estudantes (705), plataforma mais utilizada (Facebook), análise da média de dependência por gênero e nível acadêmico, impacto do uso nas notas por nível acadêmico, e a distribuição de status de relacionamento.
 
-[Acesse o Dashboard aqui](https://app.powerbi.com/reportEmbed?reportId=56ceeafa-e958-4774-b714-7f3d9691e427&autoAuth=true&ctid=e8cf2639-1f98-4bb4-bd89-abd14928937f)
+[Acesse o Dashboard aqui](https://app.powerbi.com/view?r=eyJrIjoiNDlkNGFjOTUtNGE2NS00M2ExLWIwZjUtZmNlYTI5Yzc3MGQwIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
 
 
 ---
